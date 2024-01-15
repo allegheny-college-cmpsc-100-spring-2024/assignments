@@ -9,7 +9,7 @@
 
 ## Upcoming
 
-| Assignment Link                       | Submit trinket by* | Complete attempt          |
+| Assignment                      | Submit trinket by* | Complete attempt          |
 | ------------------------------------- | ------------------ | ------------------------- |
 | Variables & Datatypes Problem Set     | Thurs, Jan 18 8 PM | Thurs, Jan 25 8 PM        |
 | Paper Coordiantes                     |                    | Fri, Jan 19, end of class |
