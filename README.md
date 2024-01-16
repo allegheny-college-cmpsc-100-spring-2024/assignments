@@ -3,15 +3,14 @@
 ## Current
 
 | Assignment Link  | Submit trinket by* | Complete attempt |
-| ---------------- | ------------------ | ---------------- |
+| --- | --- | --- |
 | [Course Platforms](https://classroom.github.com/a/I_aPYXfe) |                    | Tues, Jan 16 8PM |
 | [Helix Variations](https://classroom.github.com/a/iYUubKEG) | Tues, Jan 16 8PM   | Tues, Jan 23 8PM |
 
 ## Upcoming
 
-| Assignment                      | Submit trinket by* | Complete attempt          |
+| Assignment | Submit trinket by* | Complete attempt |
 | --- | --- | --- |
-
 | Paper Coordinates                     |                    | Tues, Jan 23 8 PM |
 | Variables & Datatypes Problem Set     | Thurs, Jan 18 8 PM | Thurs, Jan 25 8 PM        |
 | Quiz #1 -- Open Book Quiz on Syllabus |                    | In-class, Fri, Jan 26     |
