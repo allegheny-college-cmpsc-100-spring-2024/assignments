@@ -10,7 +10,7 @@
 ## Upcoming
 
 | Assignment                      | Submit trinket by* | Complete attempt          |
-| ------------------------------------- | ------------------ | ------------------------- |
+| --- | --- | --- |
 
 | Paper Coordinates                     |                    | Tues, Jan 23 8 PM |
 | Variables & Datatypes Problem Set     | Thurs, Jan 18 8 PM | Thurs, Jan 25 8 PM        |
