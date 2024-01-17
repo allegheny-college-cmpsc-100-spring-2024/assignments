@@ -4,6 +4,7 @@
 
 | Assignment Link  | Submit trinket by* | Complete attempt |
 | --- | --- | --- |
+| [Pre-Assessment](https://docs.google.com/forms/d/e/1FAIpQLSfI8_lGf7UB6HnVHs0JR19XtWAWmneT_HUIM1-ACb_C7mWakw/viewform?usp=sf_link) | | Thurs, Jan 18, 10:00 AM |
 | [Course Platforms](https://classroom.github.com/a/I_aPYXfe) |                    | Tues, Jan 16 8PM |
 | [Helix Variations](https://classroom.github.com/a/iYUubKEG) | Tues, Jan 16 8PM   | Tues, Jan 23 8PM |
 
