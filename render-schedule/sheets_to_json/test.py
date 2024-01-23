@@ -6,9 +6,8 @@ def main():
     jsonFile = open("schedule.json")
     data = json.load(jsonFile)
 
-    for line in data:
-        print(line)
-    
+    for key, value in data['due:'].items():
+        print(key, value)
 
 
 
