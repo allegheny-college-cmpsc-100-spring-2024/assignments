@@ -1,19 +1,20 @@
 # JSON to Buckets
 
-## Potential Libraries
+Your job is take the schedule.JSON file and split the assignments into three JSON files:
 
-The libraries I have found to achieve this are:
+`current.JSON`
+`upcoming.JSON`
+`past.JSON`
 
-- [Google's API](https://developers.google.com/sheets/api/quickstart/python)
-- [gsheets wrapper for above](https://pypi.org/project/gsheets/)
+Running `main.py` will put these three files in folder `buckets`.
 
-I haven't worked with these libraries myself so this will be a bit of a new adventure! If it turns out they don't work too great, you can let me know. There are some alternative options. You can also research other libraries yourself. 
+This is how you will decide which file an assignment goes into:
 
-Your goal is to edit `main.py` so that it turns [this Google sheet](https://docs.google.com/spreadsheets/d/104OkqDtqq2ghhPYb01ct3KtmoegtOU3iLnL3DVIXOvo/edit?usp=sharing) into a file called `schedule.JSON` that is formatted as follows.
-
-Note that if no time is specified for an assignment's assign date, you should set it to midnight (00:00). If no time is specified for its due date, you should set it for 8:00 (20:00).
-
-```
-[{"name": "paper-coordinates", "category": "exercises", "assigned":	"2024-01-18T00:00",	"due":"2024-01-18T20:00", "link":	"https://classroom.github.com/a/iYUubKEG"}, 
-{"name": "helix-variations", "category": "exercises", "assigned":	"2024-01-16T00:00",	"due":"2024-01-16T20:00", "link":	"https://classroom.github.com/a/tOox8MQP"}]
-```
+| assignment type                | due date                     | assigned date                 | file     |
+| ------------------------------ | ---------------------------- | ----------------------------- | -------- |
+| **problem-sets or exercises** | today is before due date + 7 | today is after assigned date  | current  |
+|                                | today is after due date + 7  | any                           | past     |
+|                                | any                          | today is before assigned date | upcomng  |
+| **everything else**           | today is before due date     | today is after assigned date  | current  |
+|                                | today is after due date      | any                           | past     |
+|                                | any                          | today is before assigned date | upcoming |
