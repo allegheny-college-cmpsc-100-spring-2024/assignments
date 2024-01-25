@@ -1,0 +1,32 @@
+This is a txt file for how to set up the json file 
+
+Go to the Google Cloud Console:
+Visit Google Cloud Console.
+
+Create a New Project:
+If you don't have an existing project, create a new one by clicking on the project name at the top of the console and selecting "New Project."
+
+Enable Google Sheets API:
+In the sidebar, navigate to "APIs & Services" -> "Library." Search for "Google Sheets API" and enable it for your project.
+
+Create Service Account:
+
+In the sidebar, navigate to "APIs & Services" -> "Credentials."
+Click on "Create credentials" and choose "Service account key."
+Fill in the required information for the service account.
+Assign the "Editor" role to the service account (or choose a role that provides sufficient permissions for your use case).
+Click "Continue" and then "Done."
+Download JSON Key File:
+
+After creating the service account, click on the pencil/edit icon next to the service account in the "Credentials" tab.
+Navigate to the "Keys" tab and click "Add Key" -> "JSON."
+Save the downloaded JSON file to a secure location. This is your 'test.json' file.
+Fill in 'test.json' Details:
+Open the downloaded 'test.json' file with a text editor and fill in the details in the JSON structure. Replace the placeholder values with the actual values from your service account.
+
+"project_id": Your Google Cloud project ID.
+"private_key_id": Private key ID from the JSON file.
+"private_key": Private key from the JSON file. Include line breaks ("\n") for multiline keys.
+"client_email": Client email from the JSON file.
+"client_id": Client ID from the JSON file.
+The other fields can remain unchanged as they are part of the standard service account JSON structure.
