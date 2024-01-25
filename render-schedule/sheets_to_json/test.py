@@ -24,6 +24,11 @@ def main():
     #print(worksheet)
     console.print(worksheet)
     
+    #looking for errors in the json file 
+    try:
+        credentials = ServiceAccountCredentials.from_json_keyfile_name(json_file_path, scope)
+    except json.decoder.JSONDecodeError as e:
+        print(f"JSONDecodeError: {e}")
 
 
 if __name__ == "__main__":
