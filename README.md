@@ -7,7 +7,9 @@
 | [Problem Set 2](https://classroom.github.com/a/bvROnoOH)                                                                             | Friday, Feb 2, 8 PM | Thursday, Feb 8, 8 PM          |
 | Study for Quiz # 2, [Info HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/feb-9-quiz.md) |                     | Quiz in class Fri, Feb 9       |
 | [3D Canvas Lab](https://classroom.github.com/a/45BEsoro)                                                                             |                     | ~Thu, Feb 8~ Mon, Feb 12, 8 PM |
+| [While Loop Pyramid](https://classroom.github.com/a/Wp5GYZp5) | Tues, Jan 30, 8 PM | Tuesday, Feb 6, 8 PM |
 | [Two Boxes Exercise](https://classroom.github.com/a/87Sq-wos)                                                                        | Friday, Jan 26, 8PM | Friday, Feb 2, 8 PM            |
+
 
 ## Past
 
