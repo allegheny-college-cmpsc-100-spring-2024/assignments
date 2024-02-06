@@ -4,6 +4,7 @@
 
 | Assignment Link                                                                                                                      | Submit trinket by\* | Complete attempt               |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------ |
+| [Simple Animation](https://classroom.github.com/a/EU6LyQlp) | Tues, Feb 6, 8 PM | Tues, Feb 13, 8 PM |
 | [Problem Set 2](https://classroom.github.com/a/bvROnoOH)                                                                             | Friday, Feb 2, 8 PM | Thursday, Feb 8, 8 PM          |
 | Study for Quiz # 2, [Info HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/feb-9-quiz.md) |                     | Quiz in class Fri, Feb 9       |
 | [3D Canvas Lab](https://classroom.github.com/a/45BEsoro)                                                                             |                     | ~Thu, Feb 8~ Mon, Feb 12, 8 PM |
