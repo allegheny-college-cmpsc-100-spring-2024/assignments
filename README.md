@@ -4,7 +4,8 @@
 
 | Assignment Link                                                                                                                      | Submit trinket by\* | Complete attempt               |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------ |
-| [List Times Two](https://classroom.github.com/a/taX8ZU6t)                                                                            | Thurs, Feb 8, 8 PM  | Thrus, Feb 15, 8PM             |
+| [Cube of Pyramids Challenge](https://classroom.github.com/a/zrz_IC5W)                                                                |                     | Mon, Feb 19, 8 PM              |
+| [List Times Two](https://classroom.github.com/a/taX8ZU6t)                                                                            | Thurs, Feb 8, 8 PM  | Thurs, Feb 15, 8PM             |
 | [Problem Set 2](https://classroom.github.com/a/bvROnoOH)                                                                             | Friday, Feb 2, 8 PM | Thursday, Feb 8, 8 PM          |
 | Study for Quiz # 2, [Info HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/feb-9-quiz.md) |                     | Quiz in class Fri, Feb 9       |
 | [3D Canvas Lab](https://classroom.github.com/a/45BEsoro)                                                                             |                     | ~Thu, Feb 8~ Mon, Feb 12, 8 PM |
