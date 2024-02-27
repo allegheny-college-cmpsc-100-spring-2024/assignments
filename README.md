@@ -4,12 +4,12 @@
 
 | Assignment Link                                                                                                             | Submit trinket by\* | Complete attempt          |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------- |
+| [DIY Functions](https://classroom.github.com/a/iCIuKx1Y) | Wed Feb 28, 8PM | Wed, March 13, 8 PM | 
 | [Animate Your Words Group Lab](https://classroom.github.com/a/HdHWCaJJ)                                                        |                     | Thurs, Feb 29, 8 PM       |
 | [Rolling Ball](https://classroom.github.com/a/AyfrQbje)                                                                        | Thurs, Feb 22, 8 PM | Thurs, Feb 29, 8 PM       |
 | [Super Basic Chat Bot](https://classroom.github.com/a/zFgt-VMj)                                                                | Tues, Feb 20, 8 PM  | Tues, Feb 27, 8 PM        |
 | [Accept Gradebook](https://classroom.github.com/a/7dLK4j3-)                                                                    |                     |                           |
-| Study for Quiz #3,[INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-3.md) |                     | Quiz Fri, Feb 23 in-class |
-| [Problem Set 3](https://classroom.github.com/a/YirqgstC)                                                                       | Fri, Feb 16, 8 PM   | Thurs, Feb 22, 8 PM       |
+
 
 ## Past
 
@@ -28,6 +28,8 @@
 | [3D Canvas Lab](https://classroom.github.com/a/45BEsoro)                                                                             |                     | ~Thu, Feb 8~ Mon, Feb 12, 8 PM |
 | [For Loop List Poem](https://classroom.github.com/a/48MUfU-F)                                                                        | Tues, Feb 13, 8 PM  | Tues, Feb 20, 8 PM              |
 | [Cube of Pyramids Challenge](https://classroom.github.com/a/zrz_IC5W)                                                                |                     | Mon, Feb 19, 8 PM               |
+| Study for Quiz #3,[INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-3.md) |                     | Quiz Fri, Feb 23 in-class |
+| [Problem Set 3](https://classroom.github.com/a/YirqgstC)                                                                       | Fri, Feb 16, 8 PM   | Thurs, Feb 22, 8 PM       |
 
 \*Most exercises and problem sets have two deadlines: the submit-trinket deadline and the complete attempt deadline. You should submit a link to your working trinket by the first deadline, but you have until the second deadline to work on the assignment before your grade is final.
 
