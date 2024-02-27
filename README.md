@@ -4,6 +4,7 @@
 
 | Assignment Link                                                                                                             | Submit trinket by\* | Complete attempt          |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------- |
+| [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md) | | Everyone must share one lab per semester |
 | [DIY Functions](https://classroom.github.com/a/iCIuKx1Y) | Wed Feb 28, 8PM | Wed, March 13, 8 PM | 
 | [Animate Your Words Group Lab](https://classroom.github.com/a/HdHWCaJJ)                                                        |                     | Thurs, Feb 29, 8 PM       |
 | [Rolling Ball](https://classroom.github.com/a/AyfrQbje)                                                                        | Thurs, Feb 22, 8 PM | Thurs, Feb 29, 8 PM       |
