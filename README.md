@@ -4,8 +4,9 @@
 
 | Assignment Link                                                                                                             | Submit trinket by\* | Complete attempt          |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------- |
-| [Problem Set 4](https://classroom.github.com/a/o3j_EDOb) | | Thurs, March 14, 8 PM |
 | [Course Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSciC4qjeHVpMU3mrBb7DDafB6i_96lPj37Ye9oei5rKWzbsnA/viewform?usp=sf_link) | | Thurs, Feb 29, 9:45 AM |
+| [Problem Set 4](https://classroom.github.com/a/o3j_EDOb) | | Thurs, March 14, 8 PM |
+| Study for Quiz #4, [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-4.md)| | Quiz in class Fri, March 15 |
 | [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md) | | Everyone must share one lab per semester |
 | [DIY Functions](https://classroom.github.com/a/iCIuKx1Y) | Wed Feb 28, 8PM | Wed, March 13, 8 PM | 
 | [Animate Your Words Group Lab](https://classroom.github.com/a/HdHWCaJJ)                                                        |                     | Thurs, Feb 29, 8 PM       |
