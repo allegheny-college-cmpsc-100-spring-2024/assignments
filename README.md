@@ -27,6 +27,7 @@
 | Study for Quiz # 2,[Info HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/feb-9-quiz.md)  |                     | Quiz in class Fri, Feb 9       |
 | [3D Canvas Lab](https://classroom.github.com/a/45BEsoro)                                                                             |                     | ~Thu, Feb 8~ Mon, Feb 12, 8 PM |
 | [For Loop List Poem](https://classroom.github.com/a/48MUfU-F)                                                                        | Tues, Feb 13, 8 PM  | Tues, Feb 20, 8 PM             |
+| [Simple Animation](https://classroom.github.com/a/48MUfU-F) | | |
 | [Cube of Pyramids Challenge](https://classroom.github.com/a/zrz_IC5W)                                                                |                     | Mon, Feb 19, 8 PM              |
 | Study for Quiz #3,[INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-3.md)       |                     | Quiz Fri, Feb 23 in-class      |
 | [Problem Set 3](https://classroom.github.com/a/YirqgstC)                                                                             | Fri, Feb 16, 8 PM   | Thurs, Feb 22, 8 PM            |
