@@ -4,7 +4,7 @@
 
 | Assignment Link                                                                                                                           | Submit trinket by\* | Complete attempt                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------- |
-| (Cube of Pyramids Challenge)[https://classroom.github.com/a/wqnNGfU5]                                                                     |                     | Thurs, March 21, 8 PM                    |
+| [Cube of Pyramids Challenge](https://classroom.github.com/a/wqnNGfU5)                                                                     |                     | Thurs, March 21, 8 PM                    |
 | [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                             |                     | Tues, March 19, 8 PM                     |
 | [Course Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSciC4qjeHVpMU3mrBb7DDafB6i_96lPj37Ye9oei5rKWzbsnA/viewform?usp=sf_link) |                     | Thurs, Feb 29, 9:45 AM                   |
 | [Problem Set 4](https://classroom.github.com/a/o3j_EDOb)                                                                                  |                     | Thurs, March 14, 8 PM                    |
