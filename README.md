@@ -6,11 +6,8 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------- |
 | [Cube of Pyramids Challenge](https://classroom.github.com/a/wqnNGfU5)                                                                     |                     | Thurs, March 21, 8 PM                    |
 | [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                             |                     | Tues, March 19, 8 PM                     |
-| [Course Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSciC4qjeHVpMU3mrBb7DDafB6i_96lPj37Ye9oei5rKWzbsnA/viewform?usp=sf_link) |                     | Thurs, Feb 29, 9:45 AM                   |
-| [Problem Set 4](https://classroom.github.com/a/o3j_EDOb)                                                                                  |                     | Thurs, March 14, 8 PM                    |
-| Study for Quiz #4, [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-4.md)           |                     | Quiz in class Fri, March 15              |
 | [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md)                          |                     | Everyone must share one lab per semester |
-| [DIY Functions](https://classroom.github.com/a/iCIuKx1Y)                                                                                  | Wed Feb 28, 8PM     | Wed, March 13, 8 PM                      |
+
 
 ## Past
 
@@ -36,7 +33,10 @@
 | [Rolling Ball](https://classroom.github.com/a/AyfrQbje)                                                                                   | Thurs, Feb 22, 8 PM | Thurs, Feb 29, 8 PM                      |
 | [Super Basic Chat Bot](https://classroom.github.com/a/zFgt-VMj)                                                                           | Tues, Feb 20, 8 PM  | Tues, Feb 27, 8 PM                       |
 | [Accept Gradebook](https://classroom.github.com/a/7dLK4j3-)                                                                               |                     |                                          |
-
+| [DIY Functions](https://classroom.github.com/a/iCIuKx1Y)                                                                                  | Wed Feb 28, 8PM     | Wed, March 13, 8 PM                      |
+| [Course Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSciC4qjeHVpMU3mrBb7DDafB6i_96lPj37Ye9oei5rKWzbsnA/viewform?usp=sf_link) |                     | Thurs, Feb 29, 9:45 AM                   |
+| [Problem Set 4](https://classroom.github.com/a/o3j_EDOb)                                                                                  |                     | Thurs, March 14, 8 PM                    |
+| Study for Quiz #4, [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-4.md)           |                     | Quiz in class Fri, March 15              |
 
 \*Most exercises and problem sets have two deadlines: the submit-trinket deadline and the complete attempt deadline. You should submit a link to your working trinket by the first deadline, but you have until the second deadline to work on the assignment before your grade is final.
 
