@@ -5,7 +5,7 @@
 | Assignment Link                                                                                                                           | Submit trinket by\* | Complete attempt                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------- |
 | [Sliding Wall Challenge](https://classroom.github.com/a/wqnNGfU5)                                                                     |                     | Thurs, March 21, 8 PM                    |
-| [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                             |                     | Tues, March 19, 8 PM                     |
+| [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                             |                     | ~Tues, March 19, 8 PM ~ EXTRA CREDIT, due March 26                    |
 | [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md)                          |                     | Everyone must share one lab per semester |
 
 
