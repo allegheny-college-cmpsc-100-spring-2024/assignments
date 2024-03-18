@@ -4,6 +4,7 @@
 
 | Assignment Link                                                                                                                           | Submit trinket by\* | Complete attempt                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------- |
+|[Clone Commit Push](https://classroom.github.com/a/inFop3Mr) ||Monday, February 26, 08 PM|
 | [Sliding Wall Challenge](https://classroom.github.com/a/wqnNGfU5)                                                                     |                     | Thurs, March 21, 8 PM                    |
 | [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                             |                     | ~~Tues, March 19, 8 PM~~  March 26  8 PM                 |
 | [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md)                          |                     | Everyone must share one lab per semester |
