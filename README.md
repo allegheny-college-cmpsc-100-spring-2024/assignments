@@ -5,7 +5,6 @@
 | Assignment Link                                                                                                                           | Submit trinket by\* | Complete attempt                         |
 | --- | --- | --- |
 | Study for Quiz #5, [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-5.md) |  Quiz in class Fri, March 29 |  |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------- |
 | OPTIONAL: [Resubmit 3D Canvas Lab](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/lab-resubmit.md) | | Tues, April 2, 8 PM | 
 |[Clone Commit Push](https://classroom.github.com/a/inFop3Mr) ||Tuesday, March 26, 08 PM|
 | [Sliding Wall Challenge](https://classroom.github.com/a/wqnNGfU5)                                                                     |                     | Thurs, March 21, 8 PM                    |
