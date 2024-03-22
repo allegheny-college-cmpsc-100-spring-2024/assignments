@@ -4,8 +4,8 @@
 
 | Assignment Link                                                                                                                       | Submit trinket by\* | Complete attempt                              |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
-| OPTIONAL:[Resubmit 3D Canvas Lab](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/lab-resubmit.md) |                     | Tues, April 2, 8 PM                           |
 | [Pastiche Animation Lab](https://classroom.github.com/a/YB_onkBP)                                                                        |                     | Thurs, April 4, 8 PM                          |
+| OPTIONAL:[Resubmit 3D Canvas Lab](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/lab-resubmit.md) |                     | Tues, April 2, 8 PM                           |
 | Study for Quiz #5,[INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-5.md)           |                     | Quiz in class Fri, March 29                   |
 | [Clone Commit Push](https://classroom.github.com/a/inFop3Mr)                                                                             |                     | Tuesday, March 26, 8 PM                       |
 | [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                            |                     | ~~Tues, March 19, 8 PM~~  March 26  8 PM     |
