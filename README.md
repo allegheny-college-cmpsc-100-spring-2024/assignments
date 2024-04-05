@@ -4,15 +4,9 @@
 
 | Assignment Link                                                                                                                       | Submit trinket by\* | Complete attempt                              |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
-|[Problem Set 5](https://classroom.github.com/a/s1UujlD8) ||Thursday, April 4, 8 PM|
-|[Spiderweb Dictionary](https://classroom.github.com/a/SJaSvL8A) ||Tuesday, April 2, 8 PM|
-| [Pastiche Animation Lab](https://classroom.github.com/a/YB_onkBP)                                                                        |                     | Tues, April 9 ~~Thurs, April 4,~~ 8 PM                          |
-| OPTIONAL: [Resubmit 3D Canvas Lab](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/lab-resubmit.md) |                     | Tues, April 2, 8 PM                           |
-| Study for Quiz #5, [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-5.md)           |                     | Quiz in class Fri, March 29                   |
-| [Clone Commit Push](https://classroom.github.com/a/inFop3Mr)                                                                             |                     | Tuesday, March 26, 8 PM                       |
-| [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                            |                     | ~~Tues, March 19, 8 PM~~  March 26  8 PM     |
-| [Sliding Wall Challenge](https://classroom.github.com/a/wqnNGfU5)                                                                        |                     | ~~Thurs, March 21, 8 PM~~ Mon, March 25, 8PM |
-| [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md)                         |                     | Everyone must share one lab per semester      |
+|[Wandering Characters Challenge](https://classroom.github.com/a/tHqcBK9O) ||Monday, April 15, 08 PM|
+| [Pastiche Animation Lab](https://classroom.github.com/a/YB_onkBP)                                                                        |                     | Tues, April 9 ~~Thurs, April 4,~~ 8 PM                      |
+
 
 ## Past
 
@@ -42,6 +36,14 @@
 | [Course Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSciC4qjeHVpMU3mrBb7DDafB6i_96lPj37Ye9oei5rKWzbsnA/viewform?usp=sf_link) |                     | Thurs, Feb 29, 9:45 AM          |
 | [Problem Set 4](https://classroom.github.com/a/o3j_EDOb)                                                                                  |                     | Thurs, March 14, 8 PM           |
 | Study for Quiz #4,[INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-4.md)            |                     | Quiz in class Fri, March 15     |
+|[Problem Set 5](https://classroom.github.com/a/s1UujlD8) ||Thursday, April 4, 8 PM|
+|[Spiderweb Dictionary](https://classroom.github.com/a/SJaSvL8A) ||Tuesday, April 2, 8 PM|
+| OPTIONAL: [Resubmit 3D Canvas Lab](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/lab-resubmit.md) |                     | Tues, April 2, 8 PM                           |
+| Study for Quiz #5, [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-5.md)           |                     | Quiz in class Fri, March 29                   |
+| [Clone Commit Push](https://classroom.github.com/a/inFop3Mr)                                                                             |                     | Tuesday, March 26, 8 PM                       |
+| [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                            |                     | ~~Tues, March 19, 8 PM~~  March 26  8 PM     |
+| [Sliding Wall Challenge](https://classroom.github.com/a/wqnNGfU5)                                                                        |                     | ~~Thurs, March 21, 8 PM~~ Mon, March 25, 8PM |
+| [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md)                         |                     | Everyone must share one lab per semester      |
 
 \*Most exercises and problem sets have two deadlines: the submit-trinket deadline and the complete attempt deadline. You should submit a link to your working trinket by the first deadline, but you have until the second deadline to work on the assignment before your grade is final.
 
