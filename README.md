@@ -4,6 +4,7 @@
 
 | Assignment Link                                                                                                                       | Submit trinket by\* | Complete attempt                              |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
+|[Problem Set 6](https://classroom.github.com/a/6zlnpSeQ) ||Thursday, April 18, 8 PM|
 |[Wandering Characters Challenge](https://classroom.github.com/a/9f9obWgU) ||Monday, April 15, 8 PM|
 | [Pastiche Animation Lab](https://classroom.github.com/a/YB_onkBP)                                                                        |                     | Tues, April 9 ~~Thurs, April 4,~~ 8 PM                      |
 
