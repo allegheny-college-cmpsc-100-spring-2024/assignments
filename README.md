@@ -4,7 +4,7 @@
 
 | Assignment Link                                                                                                                       | Submit trinket by\* | Complete attempt                              |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
-[ Study for Quiz 6 <- [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-6.md) | | Quiz in class Fri, April 19 |
+| Study for Quiz #6 <- [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-6.md) | | Quiz in class Fri, April 19 |
 | [Writing Together](https://classroom.github.com/a/cYMBPtu8) | | Friday, April 12, 8 PM | 
 |[Problem Set 6](https://classroom.github.com/a/6zlnpSeQ) ||Thursday, April 18, 8 PM|
 |[Wandering Characters Challenge](https://classroom.github.com/a/9f9obWgU) ||Monday, April 15, 8 PM|
