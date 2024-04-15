@@ -4,11 +4,15 @@
 
 | Assignment Link                                                                                                                       | Submit trinket by\* | Complete attempt                              |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
+|[Final Project](https://classroom.github.com/a/VHIBYoNY) Brainstorm + References ||Wed, April 17 8 PM |
+|[Final Project](https://classroom.github.com/a/VHIBYoNY) Proposal || Fri, April 19, 2:30 PM
+|
+|[Final Project](https://classroom.github.com/a/VHIBYoNY) Working Code Draft|| Wed, April 24 8 PM |
+|[Final Project](https://classroom.github.com/a/VHIBYoNY) ||Sunday, May 5, 11:59 PM|
 | Study for Quiz #6 <- [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-6.md) | | Quiz in class Fri, April 19 |
-| [Writing Together](https://classroom.github.com/a/cYMBPtu8) | | Friday, April 12, 8 PM | 
-|[Problem Set 6](https://classroom.github.com/a/6zlnpSeQ) ||Thursday, April 18, 8 PM|
 |[Wandering Characters Challenge](https://classroom.github.com/a/9f9obWgU) ||Monday, April 15, 8 PM|
-| [Pastiche Animation Lab](https://classroom.github.com/a/YB_onkBP)                                                                        |                     | Tues, April 9 ~~Thurs, April 4,~~ 8 PM                      |
+| [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md)                         |                     | Everyone must share one lab per semester      |
+
 
 
 ## Past
@@ -47,6 +51,9 @@
 | [Command Your Files](https://classroom.github.com/a/Oua4f7-l)                                                                            |                     | ~~Tues, March 19, 8 PM~~  March 26  8 PM     |
 | [Sliding Wall Challenge](https://classroom.github.com/a/wqnNGfU5)                                                                        |                     | ~~Thurs, March 21, 8 PM~~ Mon, March 25, 8PM |
 | [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md)                         |                     | Everyone must share one lab per semester      |
+| [Writing Together](https://classroom.github.com/a/cYMBPtu8) | | Friday, April 12, 8 PM | 
+|[Problem Set 6](https://classroom.github.com/a/6zlnpSeQ) ||Thursday, April 18, 8 PM|
+| [Pastiche Animation Lab](https://classroom.github.com/a/YB_onkBP)                                                                        |                     | Tues, April 9 ~~Thurs, April 4,~~ 8 PM                      |
 
 \*Most exercises and problem sets have two deadlines: the submit-trinket deadline and the complete attempt deadline. You should submit a link to your working trinket by the first deadline, but you have until the second deadline to work on the assignment before your grade is final.
 
