@@ -9,6 +9,7 @@
 |[Final Project](https://classroom.github.com/a/VHIBYoNY) Proposal || Fri, April 19, 2:30 PM |
 |[Final Project](https://classroom.github.com/a/VHIBYoNY) Working Code Draft|| Wed, April 24 8 PM |
 |[Final Project](https://classroom.github.com/a/VHIBYoNY) ||Sunday, May 5, 11:59 PM|
+|[Pastiche Animation Resubmission (Optional)](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/lab-resubmit.md) | | Sunday, May 5, 11:59 PM|
 | Study for Quiz #6 <- [INFO HERE](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/quiz-6.md) | | Quiz in class Fri, April 19 |
 |[Wandering Characters Challenge](https://classroom.github.com/a/9f9obWgU) ||Monday, April 15, 8 PM|
 | [Lab Shares](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/reminders/labShares.md)  |   | Everyone must share one lab per semester      |
