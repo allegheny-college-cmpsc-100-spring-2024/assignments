@@ -4,6 +4,7 @@
 
 | Assignment Link                                                                                                                       | Submit trinket by\* | Complete attempt                              |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
+|[Course Feedback Surveys]()| | Thursday, April 25, 10:00 AM |
 |[Snow Globe Challenge](https://classroom.github.com/a/PcxYe4PJ) ||Thursday, April 25, 8 PM|
 |[Final Project](https://classroom.github.com/a/VHIBYoNY) Brainstorm + References ||Wed, April 17 8 PM |
 |[Final Project](https://classroom.github.com/a/VHIBYoNY) Proposal || Fri, April 19, 2:30 PM |
